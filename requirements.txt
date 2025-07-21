@@ -1,0 +1,6 @@
+flask
+scapy
+numpy
+pandas
+tensorflow
+joblib
